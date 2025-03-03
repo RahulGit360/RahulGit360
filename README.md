@@ -34,7 +34,7 @@
 </a>
   </a>
   <a href="https://discord.com/channels/@me" target="_blank">
-  <img src="https://discord.com/channels/@me#:~:text=rahul.reddy" height="35" alt="discord logo"  />  
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />  
 </a>
   </a>
   <a href="rahulreddysama88@gmail.com" target="_blank">
