@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Rahul_Sama and I'm a ..., from ....</h2>
+<h2 align="left">Hi 👋! My name is Rahul A results-driven Data Analyst with over 3 years of experience in database administration, data analysis, reporting, and system integration. Skilled in SQL, CRM platforms, data visualization, and automation, with a strong background in database security, maintenance, and optimization..</h2>
 
 ###
 
