@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Rahul A results-driven Software Engineer with over 3 years of experience in database administration, data analysis, reporting, and system integration. Skilled in SQL, CRM platforms, data visualization, and automation, with a strong background in database security, maintenance, and optimization..</h2>
+<h2 align="left">Hi 👋! My name is Rahul A results-driven Software Engineer with over 12 years of experience in Java, java script, web development, database administration, data analysis, reporting, and system integration. Skilled in SQL, CRM platforms, data visualization, and automation, with a strong background in database security, maintenance, and optimization..</h2>
 
 ###
 
