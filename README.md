@@ -49,4 +49,34 @@
 
 ### 🌟 Featured Projects
 
-- **Scalable UI Component Libra**
+- **Scalable UI Component Library** – React + Storybook components with a11y support  
+- **Real-time AWS Dashboard** – WebSocket + Lambda + DynamoDB + React  
+- **ChatGPT Proxy App** – Secure Node.js proxy + persistent chat history  
+- **GitHub Clone** – GitHub OAuth login, commit simulation, webhook feed  
+- **SafeTrade ML** – Facebook Marketplace fraud detection with Python + React
+
+---
+
+### 📫 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahul-reddy-s-024355258/)  
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rahulreddysama88@gmail.com)  
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rahul_sama_/?hl=enc)  
+[![Twitch](https://img.shields.io/badge/-Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/rahul_sama_)  
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rahulreddysama&show_icons=true&theme=tokyonight" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahulreddysama&theme=tokyonight" height="170" />
+</p>
+
+---
+
+### 🎧 Spotify Now Playing
+
+<p align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" height="90" />
+</p>
