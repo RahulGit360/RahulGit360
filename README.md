@@ -1,4 +1,21 @@
-<h2 align="left">Hi 👋! My name is Rahul A results-driven Software Engineer with experience in Java, java script, web development, database administration, data analysis, reporting, and system integration. Skilled in SQL, CRM platforms, data visualization, and automation, with a strong background in database security, maintenance, and optimization..</h2>
+<h2 align="left">👋 Hi, I'm Rahul Reddy Sama — a Full Stack Software Engineer passionate about building modern, scalable web applications. With 4+ years of experience, I specialize in:
+
+- ⚛️ Frontend: React.js, TypeScript, Tailwind CSS, Angular
+- 🛠 Backend: Node.js, Java (Spring Boot), RESTful & GraphQL APIs
+- ☁️ Cloud & DevOps: AWS (Lambda, S3, API Gateway), Docker, CI/CD, Jenkins
+- 🧪 Testing & Automation: Cypress, Postman, Selenium
+- 📊 Databases: MongoDB, MySQL, PostgreSQL
+
+🔭 Recent Projects:
+- Scalable UI Component Library (React + Storybook)
+- Real-time Dashboard with AWS + WebSockets
+- ChatGPT API Proxy App with persistent history
+- GitHub OAuth Clone with token-based access
+
+📚 I enjoy solving real-world problems with clean code, collaborating in agile teams, and continuously learning new technologies.
+
+Let's connect! 💬
+</h2>
 
 ###
 
