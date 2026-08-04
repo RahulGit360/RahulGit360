@@ -41,5 +41,12 @@ GenAI/ML Engineer at Amazon, working on foundation model fine-tuning pipelines, 
 </p>
 
 <p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RahulGit360/RahulGit360/output/github-snake-dark.svg" />
+    <img src="https://raw.githubusercontent.com/RahulGit360/RahulGit360/output/github-snake.svg" alt="Contribution snake" />
+  </picture>
+</p>
+
+<p align="center">
   💬 Ask me about: LLMs · RAG · Model Fine-tuning · Inference Optimization · MLOps · Agentic AI
 </p>
