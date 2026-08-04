@@ -61,4 +61,11 @@ AI/ML Engineer with 4+ years of experience designing, building, and deploying pr
 
 ---
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RahulGit360/RahulGit360/output/github-snake-dark.svg" />
+    <img src="https://raw.githubusercontent.com/RahulGit360/RahulGit360/output/github-snake.svg" alt="Contribution snake" />
+  </picture>
+</p>
+
 <p align="center"><sub>rahulred.sama@gmail.com</sub></p>
